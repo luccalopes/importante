@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(130, 44, 156);
+    text-align: center;
+    font-family: sans-serif;
+}
+
+button {
+    padding: 15px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.declaration {
+    background-color: whitesmoke;
+    width: 20rem;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    margin: auto;
+    margin-top: 20vh;
+    font-weight: bold;
+    color: rgb(174, 43, 226);
+}
