@@ -19,7 +19,7 @@ const btnNo = document.querySelector('#desvia').addEventListener('mouseover', de
 function declaration() {
     const declaration = document.getElementById('declaration')
     declaration.className = 'declaration'
-    declaration.innerText = 'Bianca, Eu sou LOUCO por você! Desde que te conheci você não saiu mais da minha cabeça, quando penso em você eu sinto vontade de ser melhor, eu amo a sua presença e contigo eu me sinto capaz de ter o mundo! Você é especial, você é PERFEITA pra mim, meu amor!'
+    declaration.innerText = 'Bianca, Eu sou LOUCO por você! Desde que te conheci você não saiu mais da minha cabeça, eu te acho maravilhosa, quando penso em você eu sinto vontade de ser muito melhor, eu amo a sua presença e contigo eu me sinto capaz de ter o mundo! Você é especial, você é PERFEITA pra mim, meu amor! Eu chuto a bunda de qualquer um por você!'
     const main = document.getElementById('main')
     main.innerText = ''
     return declaration
