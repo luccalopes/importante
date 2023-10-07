@@ -19,7 +19,7 @@ const btnNo = document.querySelector('#desvia').addEventListener('mouseover', de
 function declaration() {
     const declaration = document.getElementById('declaration')
     declaration.className = 'declaration'
-    declaration.innerText = 'Bianca, Eu sou LOUCO por você! Desde que te conheci você não saiu mais da minha cabeça, eu te acho maravilhosa, quando penso em você eu sinto vontade de ser muito melhor, eu amo a sua presença e contigo eu me sinto capaz de ter o mundo! Você é especial, você é PERFEITA pra mim, meu amor! Eu chuto a bunda de qualquer um por você!'
+    declaration.innerText = 'Eu sou LOUCO por vc, meu amor! que legal que vc clicou no "sim" né? kkkkk mas enfim, desde que te conheci você não saiu mais da minha cabeça, você é uma mina INCRÍVEL e eu não acredito ainda que eu pude ter essa chance de ter uma mulher do seu nível comigo, linda, maravilhosa, a minha princesa. Eu realmente ganhei na loteria depois de te conhecer, então fiz essa zoeirinha aqui pra te pedir em namoro! Obrigado por ter aparecido na minha vida, minha linda! Você é muito especial pra mim! \nTe amo muito. de Lucca p/ Bibi perigosa'
     const main = document.getElementById('main')
     main.innerText = ''
     return declaration
